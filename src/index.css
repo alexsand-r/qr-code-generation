@@ -113,6 +113,18 @@ body {
   max-width: 450px;
   width: 100%;
 }
+.btn-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 25px;
+}
+.qr-code {
+  display: flex;
+  justify-content: center;
+      text-align: center;
+      margin-top: 12px;
+}
 
 
 
