@@ -1,10 +1,10 @@
 import "./title.css"
 
 
-function Title() {
+function Title({title}) {
     return (
         <>
-        <h1 className="title">QR code generation</h1>
+        <h1 className="title">{title}</h1>
         </>
     )
 }

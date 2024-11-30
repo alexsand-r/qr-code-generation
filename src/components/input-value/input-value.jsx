@@ -2,10 +2,10 @@ import './input-value.css'
 
 
 
-function InputValue() {
+function InputValue({ handleChange}) {
     return (
         <>
-            <h1 className='input'>Hello Vite</h1>
+            <input className='input' type="text" placeholder='Add text ...' onChange={handleChange}  />
         </>
     )
 }

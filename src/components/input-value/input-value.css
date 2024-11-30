@@ -1,5 +1,25 @@
 .input {
-    font-size: 30px;
+    font-size: 18px;
     color: blue;
-    line-height: 1.5;
+    height: 40px;
+    /* Задайте высоту инпута */
+    border: 2px solid #6acef9;
+    min-width: 270px;
+    padding: 0 5px 0 10px;
+    border-radius: 5px 0px 0px 5px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: flex-start;
+    /* Горизонтальное выравнивание */
+    align-items: center;
+  flex: 1; /* Инпут будет растягиваться на всю доступную ширину */
+  max-width: 450px; /* Ограничиваем максимальную ширину инпута */
+}
+
+.input:focus {
+    outline: 2px solid #a1e1fd;
+}
+
+.input::placeholder {
+    color: rgba(0, 0, 255, 0.315);
 }
