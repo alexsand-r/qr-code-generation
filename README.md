@@ -1,6 +1,7 @@
 # QR Code Generator (Training Project) 🧑‍💻
 
-[alexsand-r.github.io/qr-code-generation/](https://alexsand-r.github.io/qr-code-generation/)  
+🔗 [Visit the QR Code Generator](https://alexsand-r.github.io/qr-code-generation/) 🚀
+
 This is a **training project** built using **React** and **Vite**, aimed at generating QR codes based on user input. The project demonstrates the use of **React components**, **state management**, and a **QR code generation library**.
 
 ## 📌 Features
@@ -36,5 +37,5 @@ This is a **training project** built using **React** and **Vite**, aimed at gene
 
 💡 **This project is a great example of how to use React for building functional, interactive components!** 🚀
 
-📫 **Contact Me:** [![Email](https://img.shields.io/badge/Email-%231DA1F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1inboxna@gmail.com) [1inboxna@gmail.com](mailto:1inboxna@gmail.com)
+📫 **Contact Me:** [1inboxna@gmail.com](mailto:1inboxna@gmail.com)
 
