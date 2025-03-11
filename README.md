@@ -1,4 +1,5 @@
-# ![QR Code](https://img.shields.io/badge/QR%20Code-%23232F3E?style=for-the-badge&logo=qr-code&logoColor=white) QR Code Generator (Training Project) 🧑‍💻
+# ![Chessboard](https://img.shields.io/badge/Chessboard-%23232F3E?style=for-the-badge&logo=chess&logoColor=white) QR Code Generator (Training Project) 🧑‍💻
+
 
 This is a **training project** built using **React** and **Vite**, aimed at generating QR codes based on user input. The project demonstrates the use of **React components**, **state management**, and a **QR code generation library**.
 
