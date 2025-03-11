@@ -1,6 +1,6 @@
-#  QR Code Generator (Training Project) 🧑‍💻
+# QR Code Generator (Training Project) 🧑‍💻
 
-
+[alexsand-r.github.io/qr-code-generation/](https://alexsand-r.github.io/qr-code-generation/)  
 This is a **training project** built using **React** and **Vite**, aimed at generating QR codes based on user input. The project demonstrates the use of **React components**, **state management**, and a **QR code generation library**.
 
 ## 📌 Features
@@ -11,9 +11,9 @@ This is a **training project** built using **React** and **Vite**, aimed at gene
 
 ## 🛠️ Technologies Used  
 
-- ![React](https://img.shields.io/badge/React-232F3E?style=for-the-badge&logo=react&logoColor=61DAFB) **React** – For building the user interface and managing component state.  
-- ![Vite](https://img.shields.io/badge/Vite-232F3E?style=for-the-badge&logo=vite&logoColor=646CFF) **Vite** – For project setup and fast development.  
-- ![qrcode.react](https://img.shields.io/badge/qrcode.react-232F3E?style=for-the-badge&logo=react&logoColor=61DAFB) **qrcode.react** – Library for QR code generation.
+- ![React](https://img.shields.io/badge/React-232F3E?style=for-the-badge&logo=react&logoColor=61DAFB&color=FFD700) **React** – For building the user interface and managing component state.  
+- ![Vite](https://img.shields.io/badge/Vite-232F3E?style=for-the-badge&logo=vite&logoColor=646CFF&color=FFD700) **Vite** – For project setup and fast development.  
+- ![qrcode.react](https://img.shields.io/badge/qrcode.react-232F3E?style=for-the-badge&logo=react&logoColor=61DAFB&color=FFD700) **qrcode.react** – Library for QR code generation.
 
 ## 🗝️ Key Components
 
@@ -37,5 +37,4 @@ This is a **training project** built using **React** and **Vite**, aimed at gene
 💡 **This project is a great example of how to use React for building functional, interactive components!** 🚀
 
 📫 **Contact Me:** [![Email](https://img.shields.io/badge/Email-%231DA1F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1inboxna@gmail.com) [1inboxna@gmail.com](mailto:1inboxna@gmail.com)
-
 
